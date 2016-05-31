@@ -1,2 +1,2 @@
 # LaTeX
-Overleaf documentation
+LaTeX documentation from Overleaf.
